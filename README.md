@@ -12,6 +12,9 @@ In this project, I carried out **model evaluation and selection** for predictive
 
 ### Datasets
 
+Text data: Stock news data are retrived from a website *www.intrinio.com* in order to make scrap news combined with price data that will be quoted 15 minutes away.
+
+Price data: The 15-min bar price data can be downloaded at *www.enddata.com*.
 
 
 ### Challenge
