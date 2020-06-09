@@ -1,6 +1,6 @@
 # Stock-price-prediction
 
-## Project Description
+### Project Description
 
 + Project title: Data Cleaning, Predictive Analytics, Model Evaluation and Selection
 + This project is conducted by Jongyoon Sohn
